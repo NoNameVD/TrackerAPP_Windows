@@ -4,6 +4,9 @@
 
 Проект состоит из фонового трекера и отдельного графического интерфейса для просмотра данных.
 
+## Скачать:
+[![Download](https://img.shields.io/badge/⬇️_Download-Beta-2ea44f?style=for-the-badge&logo=github)](https://github.com/NoNameVD/TrackerAPP_Windows/releases/download/Beta/TrackerAPP-beta.rar)
+
 ---
 
 ## 🚀 Возможности
